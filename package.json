@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-send-multipart-readstream",
+  "version": "1.0.0",
+  "description": "A repository for sending multipart attachments as a readstream usign the Node JS SDK from Nylas on API v3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chase Wallace",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nylas": "^7.5.2"
+  }
+}
