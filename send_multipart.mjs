@@ -27,7 +27,7 @@ async function sendMessage() {
     const message = {
         to: [
           {
-            email: "chase.w@nylas.com",
+            email: "example@example.com",
           },
         ],
         subject: "Attachment Test",
